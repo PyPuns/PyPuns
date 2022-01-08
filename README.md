@@ -24,17 +24,8 @@
 ## About
 
 PyPuns is a library that make you able to get random puns divided in various categories and languages.  
-This library was made to fill the gaps left by [PyJokes][pyjokes] for non-programming puns.
-
-
-## Installation
-
-How to install with Pip.
-
-
-## Usage
-
-API references, categories/languages tables, usage examples
+This library was made to fill the gaps left by [PyJokes][pyjokes] for non-programming puns. 
+I also took inspiration from their work for this repository.
 
 
 ## Contributing

@@ -40,9 +40,9 @@ setup(
     ],
 
     project_urls={
-        'Bug Reports': 'https://github.com/PyPuns/pypuns/issues',
+        'Bug Reports': 'https://github.com/PyPuns/PyPuns/issues',
         'Funding': 'https://www.buymeacoffee.com/66bunz',
         'Say Thanks!': 'https://saythanks.io/to/66Bunz',
-        'Source': 'https://github.com/PyPuns/pypuns',
+        'Source': 'https://github.com/PyPuns/PyPuns',
     },
 )
