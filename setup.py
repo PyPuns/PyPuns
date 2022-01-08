@@ -7,12 +7,12 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, 'README.md'), encoding='utf-8') as fh:
     long_description = '\n' + fh.read()
 
-VERSION = '1.1.2.0'
+VERSION = '0.2.2.0'
 DESCRIPTION = 'Simple random puns picker'
 
 # Setting up
 setup(
-    name='pypuns_test',
+    name='pypuns',
     version=VERSION,
     url='https://github.com/PyPuns/PyPuns',
     author='Bunz',

@@ -28,6 +28,24 @@ This library was made to fill the gaps left by [PyJokes][pyjokes] for non-progra
 I also took inspiration from their work for this repository.
 
 
+## Installation
+```python
+pip install pypuns
+```
+You can use pip to install this package.
+
+
+## Usage
+
+Import the ```pypuns``` module and use the ```get_pun``` function to get a random pun.
+```python
+import pypuns
+
+pun = pypuns.get_pun()
+```
+For further informations about the ```get_pun``` function you need to wait to check the documentation that isn't ready yet.
+
+
 ## Contributing
 
 You can contribute to this project by adding new puns or by improving existing ones for the existing languages, or adding puns for a new language. Take a look at [CONTRIBUTING.md][contributing] for more information.
