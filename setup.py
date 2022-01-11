@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '0.3.2.0'
+VERSION = '0.4.2.0'
 DESCRIPTION = 'Simple random puns picker'
 with codecs.open(os.path.join(here, 'README.md'), encoding='utf-8') as fh:
     LONG_DESCRIPTION = '\n' + fh.read()

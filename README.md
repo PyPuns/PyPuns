@@ -49,7 +49,7 @@ import pypuns
 
 pun = pypuns.get_pun()
 ```
-For further informations about the ```get_pun``` function you need to wait to check the documentation that isn't ready yet.
+For further informations about the ```get_pun``` function take a look at the [wiki](https://github.com/PyPuns/PyPuns/wiki/Installation-&-Usage).
 
 
 ## Contributing
