@@ -65,7 +65,7 @@ You can contribute to this project by adding new puns or by improving existing o
 ## Contacts
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/66bunz)
-[![saythanks](https://img.shields.io/badge/say-thanks-magenta?style=for-the-badge)](https://saythanks.io/to/kennethreitz)
+[![saythanks](https://img.shields.io/badge/say-thanks-magenta?style=for-the-badge)](https://saythanks.io/to/66Bunz)
 
 - [Gmail][gmail]: 66bunz@gmail.com
 - [Protonmail][protonmail]: bunzen@protonmail.com
