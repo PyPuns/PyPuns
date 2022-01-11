@@ -19,7 +19,7 @@ def get_all_puns(language='en', category='all', puns_file='default'):
     language: str
         possibilities: 'en', 'it'
     category: str
-        possibilities: 'all', 'blackhumor', 'thonguetwist', 'puns'
+        possibilities: 'all', 'blackhumor', 'thongue_twister', 'puns'
     puns_file: str
         possibilities: 'default'
     ----------------------------
@@ -48,7 +48,7 @@ def get_pun(language='en', category='all', puns_file='default'):
     language: str
         possibilities: 'en', 'it'
     category: str
-        possibilities: 'all', 'blackhumor', 'thonguetwist', 'puns'
+        possibilities: 'all', 'blackhumor', 'thongue_twister', 'puns'
     puns_file: str
         possibilities: 'default'
     ----------------------------
