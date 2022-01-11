@@ -4,11 +4,11 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-with codecs.open(os.path.join(here, 'README.md'), encoding='utf-8') as fh:
-    long_description = '\n' + fh.read()
-
-VERSION = '0.2.2.0'
+VERSION = '0.3.2.0'
 DESCRIPTION = 'Simple random puns picker'
+with codecs.open(os.path.join(here, 'README.md'), encoding='utf-8') as fh:
+    LONG_DESCRIPTION = '\n' + fh.read()
+
 
 # Setting up
 setup(
@@ -20,7 +20,7 @@ setup(
     
     description=DESCRIPTION,
     long_description_content_type='text/markdown',
-    long_description=long_description,
+    long_description=LONG_DESCRIPTION,
 
     packages=['pypuns', 'pypuns.puns'],
     include_package_data=True,
@@ -35,6 +35,7 @@ setup(
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: GNU Affero General Public License v3',
         'Natural Language :: English',
+        'Natural Language :: Italian',
         'Topic :: Software Development :: Build Tools',
         'Operating System :: OS Independent',
     ],
