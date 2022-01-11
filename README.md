@@ -14,6 +14,12 @@
 
 ---
 
+[![PyPI license](https://img.shields.io/pypi/l/pypuns.svg)](https://pypi.org/project/pypuns/)
+[![PyPI version fury.io](https://badge.fury.io/py/pypuns.svg)](https://pypi.org/project/pypuns/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/pypuns.svg)](https://pypi.org/project/pypuns/)
+[![PyPI status](https://img.shields.io/pypi/status/pypuns.svg)](https://pypi.org/project/pypuns/)
+
+---
 
 [About](#about) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [Contributors](#contributors) | [Contacts](#contacts) | [What's new?](#whats-new)
 
